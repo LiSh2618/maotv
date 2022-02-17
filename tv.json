@@ -10,7 +10,6 @@
   "quickSearch": 0,
   "filterable": 1
 },
-    
 {"key":"csp_xpath_shtv","name":"骚火电影","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://cncncloud.com/api/v3/file/source/3064147/shdy.json?sign=YHhLfP44aWq8SFeI8-j8-hJA8W6_Mw2z2euirYeJ7E4%3D%3A0"},
 {"key":"csp_xpath_乐猪","name":"乐猪TV(XP)","type":3,"api":"csp_XPathMac","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://cncncloud.com/api/v3/file/source/3064148/lztv.json?sign=hJkrIp_psjPbBl5_62UxBNPzDkkEsldJh6RigS1twKY%3D%3A0"},
 {"key":"csp_appys_v1_4K屋","name":"4K屋(搜)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://1080p.one/mogai_api.php/v1.vod"},
@@ -162,7 +161,87 @@
     "filterable": 0,
     "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/jpys.json"
 },
- {
+    {
+    "key": "csp_xpath_yinghua",
+    "name": "yinghua(XPath)",
+    "type": 3,
+    "api": "csp_XPath",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/yinghua.json"
+},
+    {
+    "key": "csp_xpath_onedianshi",
+    "name": "onedianshi(XPath)",
+    "type": 3,
+    "api": "csp_XPath",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/onedianshi.json"
+},
+    {
+    "key": "csp_xpath_olevod",
+    "name": "olevod(XPath)",
+    "type": 3,
+    "api": "csp_XPath",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/olevod.json"
+},
+    {
+    "key": "csp_xpath_乐猪tv",
+    "name": "乐猪tv(XPath)",
+    "type": 3,
+    "api": "csp_XPath",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/lezhutv.json"
+},
+    {
+    "key": "csp_xpath_cjtys",
+    "name": "cjtys(XPath)",
+    "type": 3,
+    "api": "csp_XPath",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/cjtys.json"
+},
+    {
+    "key": "csp_xpath_bde4",
+    "name": "bde4(XPath)",
+    "type": 3,
+    "api": "csp_XPath",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/bde4.json"
+},
+    {
+    "key": "csp_xpath_Renjie",
+    "name": "Renjie(XPath)",
+    "type": 3,
+    "api": "csp_XPath",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/Renjie.json"
+},
+    {
+    "key": "csp_xpath_Djx",
+    "name": "Djx(XPath)",
+    "type": 3,
+    "api": "csp_XPath",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/Djx.json"
+},
+    {
     "key": "csp_xpath_Aixixi",
     "name": "Aixixi(XPath)",
     "type": 3,
