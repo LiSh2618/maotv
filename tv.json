@@ -376,7 +376,7 @@
     "searchable":1,
     "quickSearch":0,
     "filterable":1,
-    "ext":"https://www.mozhatu.xyz/api.php/app/"
+    "ext":"https://www.mozhatu.xyz/api.php/"
   },   
 
 {"key":"csp_appys_xiaogui_007影视", "name":"007影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_007影视"},
