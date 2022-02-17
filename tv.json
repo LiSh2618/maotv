@@ -369,6 +369,15 @@
      "filterable": 0,
      "ext":"https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/pianba.json"
 },
+  {
+    "key":"csp_appys_xiaogui_莫扎兔", 
+    "name":"莫扎兔_M", "type":3,
+    "api":"csp_AppYs",
+    "searchable":1,
+    "quickSearch":0,
+    "filterable":1,
+    "ext":"http://www.mozhatu.xyz/api.php/app/"
+  },   
 
 {"key":"csp_appys_xiaogui_007影视", "name":"007影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_007影视"},
 {"key":"csp_appys_xiaogui_555电影", "name":"555电影(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_555电影"},
