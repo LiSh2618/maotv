@@ -369,6 +369,15 @@
 {"key":"csp_appys_v1_菜鸟动漫","name":"菜鸟动漫(搜)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://taikong.huangguay.com/mogai_api.php/v1.vod"},
 {"key":"csp_appys_v1_熊猫动漫","name":"熊猫动漫(搜)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://dongman.k8aa.com/mogai_api.php/v1.vod"},
 {"key":"csp_appys_v1_蜗牛动漫","name":"蜗牛动漫(搜)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://woniudm.woniu.cyou:20000/mogai_api.php/v1.vod"},
+
+    {
+	"key": "爱界",
+	"name": "爱界",
+	"type": 1,
+	"api": "http://cygc.xyz:84/api.php/provide/vod/?ac=list
+",
+	"playUrl": ""
+	},
 {"key":"csp_appys_xiaogui_莫扎兔","name":"莫扎兔_M", "type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://www.mozhatu.xyz/api.php/app/"},
 {"key":"csp_appys_xiaogui_007影视", "name":"007影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_007影视"},
 {"key":"csp_appys_xiaogui_555电影", "name":"555电影(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_555电影"},
