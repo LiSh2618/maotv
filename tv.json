@@ -140,7 +140,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0,
-    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/agefans.json"
+    "ext": "https://cdn.jsdelivr.net/gh/fj365/CMP4/blob/master/xpath/agemys.json"
 },
 {
     "key": "csp_xpath_jpyszl",
