@@ -10,6 +10,14 @@
   "quickSearch": 0,
   "filterable": 1
 },
+ {"key":"官解小爱","name":"官解小爱","type":1,"searchable":1,"quickSearch":0,"filterable":1,"api":"https://humaosp.com/mogai_api.php/provide/vod/from/qiyi/","playUrl":""},
+{"key":"官解小优","name":"官解小优","type":1,"searchable":1,"quickSearch":0,"filterable":1,"api":"https://humaosp.com/mogai_api.php/provide/vod/from/youku/","playUrl":""},
+{"key":"官解小腾","name":"官解小腾","type":1,"searchable":1,"quickSearch":0,"filterable":1,"api":"https://humaosp.com/mogai_api.php/provide/vod/from/qq/","playUrl":""},
+{"key":"官解芒果","name":"官解芒果","type":1,"searchable":1,"quickSearch":0,"filterable":1,"api":"https://humaosp.com/mogai_api.php/provide/vod/from/mgtv/","playUrl":""},
+{"key":"官解sohu","name":"官解sohu","type":1,"searchable":1,"quickSearch":0,"filterable":1,"api":"https://humaosp.com/mogai_api.php/provide/vod/from/sohu/","playUrl":""},
+{"key":"官解B站","name":"官解B站","type":1,"searchable":1,"quickSearch":0,"filterable":1,"api":"https://humaosp.com/mogai_api.php/provide/vod/from/bilibili/","playUrl":""},
+{"key":"官解西瓜","name":"官解西瓜","type":1,"searchable":1,"quickSearch":0,"filterable":1,"api":"https://humaosp.com/mogai_api.php/provide/vod/from/xigua/","playUrl":""},
+{"key":"官解PPTV","name":"官解PPTV","type":1,"searchable":1,"quickSearch":0,"filterable":1,"api":"https://humaosp.com/mogai_api.php/provide/vod/from/pptv/","playUrl":""}, 
 {
   "key": "csp_N0ys",
   "name": "90影视(爬虫)",
